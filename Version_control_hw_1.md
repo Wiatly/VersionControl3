@@ -72,3 +72,4 @@
 
     git checkout <new_branch_name>
     
+### Слияние веток
