@@ -70,6 +70,14 @@
 
 Чтобы создать новую ветку нужно ввести команду:
 
-    git checkout <new_branch_name>
+    git branch <new_branch_name>
     
+<<<<<<< HEAD
 ### Слияние веток
+=======
+### Переход между ветками
+
+Чтобы осуществить переход между ветками нужно ввести команду:
+
+    git checkout <branch_name>
+>>>>>>> checkout_between_branches
